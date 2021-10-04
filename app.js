@@ -9,7 +9,7 @@ function reverseList(head){
     prev = head;
     head = next;
   }
-return prev;
+return next;
 
 
 
